@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "mob": ["nex:brute", "nex:spinout", "nex:wight"],
+    "result": "deny"
+  }
+]

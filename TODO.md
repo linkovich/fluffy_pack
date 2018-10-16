@@ -72,9 +72,6 @@
 - Need to disable many structures from reccomplex
 - Adjust achievements window - no more background fading when hovering
 
-- Nether
-  - Turn off spinout, wight and brute mobs in all biomes
-
 - Allow chisel to make marble variants for astral sorcery
 
 - Test and configure tombstone mod
