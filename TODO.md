@@ -77,6 +77,7 @@
 - Selkies should drop only fur
 - Birds nests should be less common
 - Add UniDict
+- Fish shouldn't spawn in mana
 
 - Allow chisel to make marble variants for astral sorcery
 
