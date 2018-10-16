@@ -78,6 +78,7 @@
 - Add UniDict
 - Fish shouldn't spawn in mana
 - Short grass should drop plant fiber
+- It's weird that you can eat harvestcraft cotton
 
 - Allow chisel to make marble variants for astral sorcery
 
