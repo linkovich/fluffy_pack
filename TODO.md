@@ -73,6 +73,8 @@
 - Adjust achievements window - no more background fading when hovering
 - Disable astral sorcery structures and flowers in darklands biomes
 - Surface magma monsters just should not happen, restrict Y level
+- Selkies should spawn as a rare 1-of only
+- Selkies should drop only fur
 
 - Allow chisel to make marble variants for astral sorcery
 
