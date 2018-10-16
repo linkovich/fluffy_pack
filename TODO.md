@@ -76,8 +76,6 @@
 - Nether
   - Turn off spinout, wight and brute mobs in all biomes
 
-- Show nutrition like sevtech does
-
 - Allow chisel to make marble variants for astral sorcery
 
 - Test and configure tombstone mod
