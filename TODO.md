@@ -70,7 +70,6 @@
 - Fix overworld lava pools being too common, remove completely from forests
 - Configure or possibly disable temperature and thirst parts of tough as nails - thirst at least may be too tedious
 - Need to disable many structures from reccomplex
-- New fruit trees to balance in pams harvestcraft
 - Adjust achievements window - no more background fading when hovering
 
 - Nether
