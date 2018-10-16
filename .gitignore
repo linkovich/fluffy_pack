@@ -23,3 +23,7 @@ config/jei/worldSettings.cfg
 config/splash.properties
 resourcepacks/
 minecraftinstance.json
+config/BiomeTweaker/output/
+config/Aether/analytics.*
+config/InvTweaks.cfg
+config/MouseTweaks.cfg
