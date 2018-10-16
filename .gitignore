@@ -27,3 +27,4 @@ config/BiomeTweaker/output/
 config/Aether/analytics.*
 config/InvTweaks.cfg
 config/MouseTweaks.cfg
+dumps/
