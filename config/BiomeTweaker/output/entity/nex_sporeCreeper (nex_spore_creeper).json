@@ -1,6 +1,0 @@
-
-{
-  "Name": "nex:sporeCreeper",
-  "Registry ID": "nex:spore_creeper",
-  "Class": "nex.entity.monster.EntitySporeCreeper"
-}
