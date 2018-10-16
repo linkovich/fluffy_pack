@@ -1,0 +1,6 @@
+
+{
+  "Name": "nex:spore",
+  "Registry ID": "nex:spore",
+  "Class": "nex.entity.monster.EntitySpore"
+}

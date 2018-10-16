@@ -1,0 +1,185 @@
+{
+  "biome": "biomesoplenty:fungi_forest",
+  "weight": 4,
+  "enabled": true,
+  "genDefaultFeatures": true,
+  "entities": [
+    {
+      "entity": "minecraft:ghast",
+      "creatureType": "monster",
+      "weight": 50,
+      "minGroupCount": 4,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "minecraft:zombie_pigman",
+      "creatureType": "monster",
+      "weight": 100,
+      "minGroupCount": 4,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "minecraft:magma_cube",
+      "creatureType": "monster",
+      "weight": 2,
+      "minGroupCount": 4,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "minecraft:enderman",
+      "creatureType": "monster",
+      "weight": 1,
+      "minGroupCount": 4,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "magma_monsters:magma_monster",
+      "creatureType": "monster",
+      "weight": 2000,
+      "minGroupCount": 1,
+      "maxGroupCount": 3,
+      "spawn": true
+    },
+    {
+      "entity": "magma_monsters:magma_monster_grunt",
+      "creatureType": "monster",
+      "weight": 2000,
+      "minGroupCount": 1,
+      "maxGroupCount": 3,
+      "spawn": true
+    },
+    {
+      "entity": "harvestersnight:harvester",
+      "creatureType": "monster",
+      "weight": 2,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "abyssalcraft:demonpig",
+      "creatureType": "monster",
+      "weight": 15,
+      "minGroupCount": 1,
+      "maxGroupCount": 3,
+      "spawn": true
+    },
+    {
+      "entity": "abyssalcraft:demoncow",
+      "creatureType": "monster",
+      "weight": 15,
+      "minGroupCount": 1,
+      "maxGroupCount": 3,
+      "spawn": true
+    },
+    {
+      "entity": "abyssalcraft:demonchicken",
+      "creatureType": "monster",
+      "weight": 15,
+      "minGroupCount": 1,
+      "maxGroupCount": 3,
+      "spawn": true
+    },
+    {
+      "entity": "abyssalcraft:demonsheep",
+      "creatureType": "monster",
+      "weight": 15,
+      "minGroupCount": 1,
+      "maxGroupCount": 3,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:succubus",
+      "creatureType": "monster",
+      "weight": 1,
+      "minGroupCount": 2,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:baphomet",
+      "creatureType": "monster",
+      "weight": 1,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "primal:creeper_nether",
+      "creatureType": "monster",
+      "weight": 3,
+      "minGroupCount": 0,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "animania:cow_mooshroom",
+      "creatureType": "creature",
+      "weight": 12,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "primal:ovis_atre",
+      "creatureType": "creature",
+      "weight": 1,
+      "minGroupCount": 1,
+      "maxGroupCount": 6,
+      "spawn": true
+    },
+    {
+      "entity": "quark:wraith",
+      "creatureType": "monster",
+      "weight": 60,
+      "minGroupCount": 4,
+      "maxGroupCount": 6,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:succubus",
+      "creatureType": "monster",
+      "weight": 1,
+      "minGroupCount": 2,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:baphomet",
+      "creatureType": "monster",
+      "weight": 1,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "primal:creeper_nether",
+      "creatureType": "monster",
+      "weight": 3,
+      "minGroupCount": 0,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "animania:cow_mooshroom",
+      "creatureType": "creature",
+      "weight": 12,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "primal:ovis_atre",
+      "creatureType": "creature",
+      "weight": 1,
+      "minGroupCount": 1,
+      "maxGroupCount": 6,
+      "spawn": true
+    }
+  ],
+  "features": []
+}

@@ -1,0 +1,6 @@
+
+{
+  "Name": "nex:boneSpider",
+  "Registry ID": "nex:bone_spider",
+  "Class": "nex.entity.monster.EntityBoneSpider"
+}

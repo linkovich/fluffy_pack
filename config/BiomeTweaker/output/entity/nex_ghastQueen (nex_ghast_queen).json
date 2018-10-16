@@ -1,0 +1,6 @@
+
+{
+  "Name": "nex:ghastQueen",
+  "Registry ID": "nex:ghast_queen",
+  "Class": "nex.entity.boss.EntityGhastQueen"
+}
