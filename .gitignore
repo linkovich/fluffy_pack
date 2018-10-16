@@ -28,3 +28,5 @@ config/Aether/analytics.*
 config/InvTweaks.cfg
 config/MouseTweaks.cfg
 dumps/
+src/config/AppliedEnergistics2/aerecipes/*
+src/config/AppliedEnergistics2/recipes/*
