@@ -21,7 +21,7 @@
 
 - Change black bear loot table to not drop pelt, alternatively, change pelt recipe to give leather with work tool
 
-- Match yew boat recipe to bwm
+- Match all boat recipes to bwm
 
 - Make beds require siding (encourage thatch beds early)
 - Modify sheep loottables so wool isn't as easy ??
@@ -54,7 +54,6 @@
 - Disable or gate evil version of vanilla mobs from abyssalcraft
 - Add recipe for mowzie's earth charm to magic tree as side gig
 - Restrict foliaath to groups of 1
-- Possibly rename foliaath
 - Worldgen of gorgon temples is a little weird
 - Astral sorcery temples still a little too common (?)
 - Dragons are a little glitchy
@@ -78,6 +77,7 @@
 - Birds nests should be less common
 - Add UniDict
 - Fish shouldn't spawn in mana
+- Short grass should drop plant fiber
 
 - Allow chisel to make marble variants for astral sorcery
 
