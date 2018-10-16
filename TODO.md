@@ -75,16 +75,13 @@
 - Surface magma monsters just should not happen, restrict Y level
 - Selkies should spawn as a rare 1-of only
 - Selkies should drop only fur
+- Birds nests should be less common
+- Add UniDict
 
 - Allow chisel to make marble variants for astral sorcery
 
 - Test and configure tombstone mod
 - Test and adjust despawning spawners
-
-- Increase rarity of
-  - harvestcraft crops - increased currently, needs tinkering
-  - darklands biomes - increase slightly
-  - botania flowers
 
 - Consolidate same or similar materials
   - Remove AE2 wooden gear and recipe
