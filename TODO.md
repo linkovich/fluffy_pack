@@ -72,6 +72,7 @@
 - Need to disable many structures from reccomplex
 - Adjust achievements window - no more background fading when hovering
 - Disable astral sorcery structures and flowers in darklands biomes
+- Surface magma monsters just should not happen, restrict Y level
 
 - Allow chisel to make marble variants for astral sorcery
 
