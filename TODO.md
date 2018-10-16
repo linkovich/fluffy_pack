@@ -48,7 +48,7 @@
 - Wolf and ocelot spawns seem very rare, may need to fix
 - GoG needs HEAVY loottable tweaking, spawnrate tuning as well as refining where and when the mobs spawn
 - Ice and Fire Dragons - needs HEAVY config and balancing
-- Disable JEI until a high-tech item is acquired
+- Disable journeymap until a high-tech item is acquired
 - Disable horsepower grindstone
 - Disable horsepower flour and dough
 - Disable or gate evil version of vanilla mobs from abyssalcraft
@@ -74,8 +74,8 @@
 - Surface magma monsters just should not happen, restrict Y level
 - Selkies should spawn as a rare 1-of only
 - Selkies should drop only fur
+- GoG fur should only convert to leather with work tool or millstone
 - Birds nests should be less common
-- Add UniDict
 - Fish shouldn't spawn in mana
 - Short grass should drop plant fiber
 - It's weird that you can eat harvestcraft cotton
