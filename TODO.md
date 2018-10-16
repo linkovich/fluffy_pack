@@ -71,6 +71,7 @@
 - Configure or possibly disable temperature and thirst parts of tough as nails - thirst at least may be too tedious
 - Need to disable many structures from reccomplex
 - Adjust achievements window - no more background fading when hovering
+- Disable astral sorcery structures and flowers in darklands biomes
 
 - Allow chisel to make marble variants for astral sorcery
 
