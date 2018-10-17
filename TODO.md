@@ -85,8 +85,10 @@
 - Recipe for stripped logs should also return bark
 - Maybe remove all ore other then bog iron from the sariras, or allow regular iron ore to be smelted to bog iron
   - Then allow crude iron for the BWM cauldron
-- Add basketcase as an early storage option
 - Torch recipes should return 1 unlit torch in most cases
+- Add Reborn Storage if it's not in already
+- Check into the charcoal from log stacks bug
+- Make general mod advancement tree to see what can be removed
 
 - Allow chisel to make marble variants for astral sorcery
 
@@ -177,3 +179,4 @@ CONSIDER ADDING:
 - XNet and Ynot - interesting endgame tech
 - Zombie Awareness - moar difficulty
 - Worley's Caves - better cave generation
+- Floocraft - adds a floo powder system with multiblock fireplaces, seems like a cool little magic tree addition
