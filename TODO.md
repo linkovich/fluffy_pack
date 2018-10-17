@@ -79,6 +79,9 @@
 - Fish shouldn't spawn in mana
 - Short grass should drop plant fiber
 - It's weird that you can eat harvestcraft cotton
+- Remove primalcraft torch recipe
+- Sariras allows you to rush smooth stone and just start smelting in the furnace - need to extend the early game a bit
+- Rename primal hibachi to primal grill
 
 - Allow chisel to make marble variants for astral sorcery
 
