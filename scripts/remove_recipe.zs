@@ -4,14 +4,15 @@ static removedRecipes as string[] = [
 ];
 
 static removeMatchingRecipes as string[] = [
-	"minecraft:furnace",
-	"minecraft:crafting_table"
+	"primal:unlit_torch_*"
 ];
 
 static removedModRecipes as string[] = [
 ];
 
 static removedItemRecipes as IItemStack[] = [
+	<minecraft:furnace>,
+	<minecraft:crafting_table>
 ];
 
 
