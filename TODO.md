@@ -82,6 +82,11 @@
 - Remove primalcraft torch recipe
 - Sariras allows you to rush smooth stone and just start smelting in the furnace - need to extend the early game a bit
 - Rename primal hibachi to primal grill
+- Recipe for stripped logs should also return bark
+- Maybe remove all ore other then bog iron from the sariras, or allow regular iron ore to be smelted to bog iron
+  - Then allow crude iron for the BWM cauldron
+- Add basketcase as an early storage option
+- Torch recipes should return 1 unlit torch in most cases
 
 - Allow chisel to make marble variants for astral sorcery
 
