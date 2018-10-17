@@ -79,8 +79,6 @@
 - Fish shouldn't spawn in mana
 - Short grass should drop plant fiber
 - It's weird that you can eat harvestcraft cotton
-- Require a crafting table to craft vanilla workbench
-- Require smooth stone to craft vanilla furnace
 
 - Allow chisel to make marble variants for astral sorcery
 

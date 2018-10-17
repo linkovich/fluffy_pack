@@ -4,6 +4,8 @@ static removedRecipes as string[] = [
 ];
 
 static removeMatchingRecipes as string[] = [
+	"minecraft:furnace",
+	"minecraft:crafting_table"
 ];
 
 static removedModRecipes as string[] = [
