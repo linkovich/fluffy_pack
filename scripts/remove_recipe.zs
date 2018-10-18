@@ -2,9 +2,7 @@ import crafttweaker.item.IItemStack;
 
 static removedRecipes as string[] = [
 	"primal:unlit_torch_mote",
-	"primal:unlit_torch_coal",
-	"betterwithmods:torch",
-	"minecraft:torch"
+	"primal:unlit_torch_coal"
 ];
 
 static removeMatchingRecipes as string[] = [

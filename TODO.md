@@ -16,17 +16,12 @@
 - Change BWM slats to use sticks, no reason to gate them behind the saw
 - Change recipes to use BWM slats
 
-- Replace yew sticks with regular sticks
-- Remove excess stick recipes primal core
-
 - Change black bear loot table to not drop pelt, alternatively, change pelt recipe to give leather with work tool
 
-- Match all boat recipes to bwm
+- Match all boat recipes to bwm, except betweenlands
 
 - Make beds require siding (encourage thatch beds early)
-- Modify sheep loottables so wool isn't as easy ??
 - Make gears require glue/slime any, this will put millstone after the cauldron, which will need a source of fire that lasts a while
-- Remove AE2 grindstone, require millstone or hopper filtering ??
 - Add more raft recipe variants (twine, rope)
 - Niter should be "Nitre"
 
@@ -34,7 +29,6 @@
 - Replace harvestcraft mortar recipes with advanced mortar
 
 - Remove light from aetherium ore, aetherworks
-- Restrict botania flower biomes
 - Manasteel should require steel, or maybe soulforged steel or either
 - EnderIO should be gated _much_ more heavily
 - Switch betweenlands items to use bauble slots, extra amulets should use inventory slots
@@ -65,7 +59,6 @@
 - Configure or possibly disable temperature and thirst parts of tough as nails - thirst at least may be too tedious
 - Need to disable many structures from reccomplex
 - Adjust achievements window - no more background fading when hovering
-- Disable astral sorcery structures and flowers in darklands biomes
 - Surface magma monsters just should not happen, restrict Y level
 - Selkies should spawn as a rare 1-of only
 - Selkies should drop only fur
@@ -79,7 +72,7 @@
 - Recipe for stripped logs should also return bark
 - Maybe remove all ore other then bog iron from the sariras, or allow regular iron ore to be smelted to bog iron
   - Then allow crude iron for the BWM cauldron
-- Torch recipes should return 1 unlit torch in most cases
+- Netherrack torch recipe should return lit torch to match other torch recipes
 - Add Reborn Storage if it's not in already
 - Check into the charcoal from log stacks bug
 - Make general mod advancement tree to see what can be removed
@@ -89,17 +82,12 @@
 - Test and configure tombstone mod
 - Test and adjust despawning spawners
 
-- Consolidate same or similar materials
-  - Remove AE2 wooden gear and recipe
-  - Bwm niter and abyss nitre
-
 - Rename
   - "Ear Defenders" immersive engineering
 
 - Remove completely
   - Vanilla hopper
   - Syrmorite hopper, betweenlands
-  - all mortars but stone
 
 
 NOTES:
@@ -107,7 +95,6 @@ NOTES:
 May need to disable if it has noticeable side effects.
 - Better Foliage - doesn't work with current version of forge
 - Stellar Sky - incompabitible with thaumcraft and astral sorcery and bloodmoon currently
-- Thaumcraft + Related Addons - incompatible with current version of forge
 
 CONSIDER ADDING:
 - AI Improvements - if we need the performance
@@ -174,3 +161,4 @@ CONSIDER ADDING:
 - Zombie Awareness - moar difficulty
 - Worley's Caves - better cave generation
 - Floocraft - adds a floo powder system with multiblock fireplaces, seems like a cool little magic tree addition
+- OpenComputers - possible lategame tech

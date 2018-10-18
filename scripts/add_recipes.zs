@@ -32,17 +32,3 @@ recipes.addShaped("linkovich_large_basket", <basketcase:container_basket_large>,
   [<betterwithmods:wicker>, <ore:cordage>, <betterwithmods:wicker>],
   [<betterwithmods:wicker>, <betterwithmods:wicker>, <betterwithmods:wicker>]
 ]);
-
-// Torch
-recipes.addShaped("linkovich_unlit_torch_1", <primal:torch_wood>, [
-  [null, <minecraft:coal:*>, null],
-  [null, <ore:stickWood>, null],
-  [null, null, null]
-]);
-
-// Nethercoal Torch
-recipes.addShaped("linkovich_unlit_torch_2", <primal:torch_wood>, [
-  [null, <betterwithmods:material:1>, null],
-  [null, <ore:stickWood>, null],
-  [null, null, null]
-]);

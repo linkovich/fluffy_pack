@@ -100,6 +100,10 @@ static removeAndHideItems as IItemStack[] = [
   <primal:yew_stick>,
   <primal:corypha_stick>,
   <primal:lacquer_stick>,
+  <primal:boat_ironwood>,
+  <primal:boat_yew>,
+  <primal:boat_corypha>,
+  <primal:boat_lacquer>,
   <primal:dirt_stick>,
   <primal:glass_stick>,
   <primal:golden_stick>
