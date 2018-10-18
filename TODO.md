@@ -76,6 +76,7 @@
 - Add Reborn Storage if it's not in already
 - Check into the charcoal from log stacks bug
 - Make general mod advancement tree to see what can be removed
+- Lava pools still showing in forest biomes :/
 
 - Allow chisel to make marble variants for astral sorcery
 

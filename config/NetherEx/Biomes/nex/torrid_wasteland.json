@@ -438,6 +438,190 @@
       "minGroupCount": 1,
       "maxGroupCount": 6,
       "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:goblin",
+      "creatureType": "monster",
+      "weight": 30,
+      "minGroupCount": 2,
+      "maxGroupCount": 6,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:orc",
+      "creatureType": "monster",
+      "weight": 6,
+      "minGroupCount": 2,
+      "maxGroupCount": 6,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:ender_eye",
+      "creatureType": "monster",
+      "weight": 4,
+      "minGroupCount": 2,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:arachne",
+      "creatureType": "monster",
+      "weight": 5,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:chest",
+      "creatureType": "monster",
+      "weight": 1,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:bone_knight",
+      "creatureType": "monster",
+      "weight": 8,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:flesh_lich",
+      "creatureType": "monster",
+      "weight": 8,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:succubus",
+      "creatureType": "monster",
+      "weight": 1,
+      "minGroupCount": 2,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:baphomet",
+      "creatureType": "monster",
+      "weight": 1,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "mowziesmobs:barakoana",
+      "creatureType": "monster",
+      "weight": 4,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "primal:creeper_nether",
+      "creatureType": "monster",
+      "weight": 3,
+      "minGroupCount": 0,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "exoticbirds:gouldianfinch",
+      "creatureType": "creature",
+      "weight": 2,
+      "minGroupCount": 2,
+      "maxGroupCount": 5,
+      "spawn": true
+    },
+    {
+      "entity": "exoticbirds:hummingbird",
+      "creatureType": "creature",
+      "weight": 9,
+      "minGroupCount": 2,
+      "maxGroupCount": 5,
+      "spawn": true
+    },
+    {
+      "entity": "exoticbirds:magpie",
+      "creatureType": "creature",
+      "weight": 4,
+      "minGroupCount": 2,
+      "maxGroupCount": 5,
+      "spawn": true
+    },
+    {
+      "entity": "exoticbirds:ostrich",
+      "creatureType": "creature",
+      "weight": 2,
+      "minGroupCount": 2,
+      "maxGroupCount": 5,
+      "spawn": true
+    },
+    {
+      "entity": "exoticbirds:pigeon",
+      "creatureType": "creature",
+      "weight": 6,
+      "minGroupCount": 2,
+      "maxGroupCount": 5,
+      "spawn": true
+    },
+    {
+      "entity": "exoticbirds:roadrunner",
+      "creatureType": "creature",
+      "weight": 5,
+      "minGroupCount": 2,
+      "maxGroupCount": 5,
+      "spawn": true
+    },
+    {
+      "entity": "exoticbirds:cardinal",
+      "creatureType": "creature",
+      "weight": 6,
+      "minGroupCount": 2,
+      "maxGroupCount": 5,
+      "spawn": true
+    },
+    {
+      "entity": "exoticbirds:bluejay",
+      "creatureType": "creature",
+      "weight": 6,
+      "minGroupCount": 2,
+      "maxGroupCount": 5,
+      "spawn": true
+    },
+    {
+      "entity": "exoticbirds:robin",
+      "creatureType": "creature",
+      "weight": 6,
+      "minGroupCount": 2,
+      "maxGroupCount": 5,
+      "spawn": true
+    },
+    {
+      "entity": "exoticbirds:crane",
+      "creatureType": "creature",
+      "weight": 3,
+      "minGroupCount": 2,
+      "maxGroupCount": 5,
+      "spawn": true
+    },
+    {
+      "entity": "exoticbirds:kookaburra",
+      "creatureType": "creature",
+      "weight": 3,
+      "minGroupCount": 2,
+      "maxGroupCount": 5,
+      "spawn": true
+    },
+    {
+      "entity": "primal:ovis_atre",
+      "creatureType": "creature",
+      "weight": 1,
+      "minGroupCount": 1,
+      "maxGroupCount": 6,
+      "spawn": true
     }
   ],
   "features": [
