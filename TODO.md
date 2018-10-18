@@ -77,6 +77,7 @@
 - Check into the charcoal from log stacks bug
 - Make general mod advancement tree to see what can be removed
 - Lava pools still showing in forest biomes :/
+- Catwalks missing footstep sounds
 
 - Allow chisel to make marble variants for astral sorcery
 
@@ -99,14 +100,11 @@ May need to disable if it has noticeable side effects.
 
 CONSIDER ADDING:
 - AI Improvements - if we need the performance
-- Astikoor - animania may handle the carts, probably not needed
 - Dynamic Trees - don't forget compat mods are separate
 - Bibliocraft - probably not needed, would need a lot of config to remove some blocks and items
 - BiomeTweakerCore - if we need more biome options
-- Broken Wings - if we need to remove flight in certain dimensions, like maybe the later abyssalcraft ones
 - Buildcraft - really only if we need another pipe option, none of the other machines appeal to me
 - Caliper - when we need to optimize the pack
-- Catwalks 4 - looks nice, just lower priority for now
 - Clef - just a fun mod, low priority
 - Clumps - performance
 - Cooking for Blockheads - if we can remove the kitchen stuff or gate/require power/water for it to work
