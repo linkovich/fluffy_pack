@@ -34,7 +34,6 @@
 - Replace harvestcraft mortar recipes with advanced mortar
 
 - Remove light from aetherium ore, aetherworks
-- Remove glass from ae2 meteor drops
 - Restrict botania flower biomes
 - Manasteel should require steel, or maybe soulforged steel or either
 - EnderIO should be gated _much_ more heavily
@@ -49,9 +48,9 @@
 - GoG needs HEAVY loottable tweaking, spawnrate tuning as well as refining where and when the mobs spawn
 - Ice and Fire Dragons - needs HEAVY config and balancing
 - Disable journeymap until a high-tech item is acquired
+- Disable waila until a tech item is acquired, allow neat until then (?)
 - Disable horsepower grindstone
 - Disable horsepower flour and dough
-- Disable or gate evil version of vanilla mobs from abyssalcraft
 - Add recipe for mowzie's earth charm to magic tree as side gig
 - Restrict foliaath to groups of 1
 - Worldgen of gorgon temples is a little weird
@@ -59,10 +58,6 @@
 - Dragons are a little glitchy
 - Configure nature's compass and put it somewhere fairly early in the magic tech tree
 - Need to heavily nerf adventure structure and mob mods so that those things are oddities as opposed to every two biomes
-- Consider switching out biomes o' plenty for biome bundle and see if it works with seasons (even if it doesn't, the weather changes and crop cycles are enough)
-  - can possibly remove recurrent complex with this installed
-  - Try configuring BoP before checking biome bundle - I think the added blocks are nice, but we'd need to fix recurrent complex structure generation and stop villages generating in or near darklands biomes
-- Remove vanilla spawns from darklands biomes
 - Make the nuclear wasteland smaller or disable it - not sure if it's needed for something
 - Checkout Enigmatica Expert 2 to see how they handled Ice and Fire and a few other mods
 - Possibly disable neat since we have waila, unless we want to stage waila
@@ -79,7 +74,6 @@
 - Fish shouldn't spawn in mana
 - Short grass should drop plant fiber
 - It's weird that you can eat harvestcraft cotton
-- Remove primalcraft torch recipe
 - Sariras allows you to rush smooth stone and just start smelting in the furnace - need to extend the early game a bit
 - Rename primal hibachi to primal grill
 - Recipe for stripped logs should also return bark

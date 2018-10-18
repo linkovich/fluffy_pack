@@ -1,13 +1,17 @@
 import crafttweaker.item.IItemStack;
 
 static removedRecipes as string[] = [
+	"primal:unlit_torch_mote",
+	"primal:unlit_torch_coal",
+	"betterwithmods:torch",
+	"minecraft:torch"
 ];
 
 static removeMatchingRecipes as string[] = [
-	"primal:unlit_torch_*"
 ];
 
 static removedModRecipes as string[] = [
+	"basketcase"
 ];
 
 static removedItemRecipes as IItemStack[] = [
