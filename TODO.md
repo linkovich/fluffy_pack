@@ -162,4 +162,3 @@ CONSIDER ADDING:
 - Zombie Awareness - moar difficulty
 - Worley's Caves - better cave generation
 - Floocraft - adds a floo powder system with multiblock fireplaces, seems like a cool little magic tree addition
-- OpenComputers - possible lategame tech

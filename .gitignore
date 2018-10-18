@@ -31,3 +31,4 @@ crash-reports/
 /config/AppliedEnergistics2/aerecipes/*
 /config/AppliedEnergistics2/recipes/*
 *.csv
+*.dll
