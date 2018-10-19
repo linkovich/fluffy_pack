@@ -78,6 +78,22 @@
 - Make general mod advancement tree to see what can be removed
 - Lava pools still showing in forest biomes :/
 - Catwalks missing footstep sounds
+- Catwalk rendering issues
+- Add Cravings mod and configure to be rare, add minimal benefits/drawbacks. Want it to be a nice little addition to the food side, not an intrusive thing
+- Consider removing Magma Monsters due to model quality being a little low for the pack
+- Check to see if mekanism generators or tools actually includes something that's not already in mekanism
+- Maybe instead of removing the vanilla hopper, just make it require a metal gear ?
+- Start looking at magneticraft to fill some tech gaps in the early / mid-late game
+- Openblocks elevator is actually a lot more balanced then I thought originally and looks like it provides a cool tech-y feel
+- JAOPCA might provide more compat between our mods that add ore
+- Disable colored bricks, adobe from better with addons
+- Remove Natura completely
+- Adjust obsidian boat recipe from netherex, or remove entirely
+- Bolt cores tinkers
+- Grimoire of Gaia - Achievement - Finish the Grimoire of Gaia
+  - Make the grimoire an actual book that is used to summon mobs from the book (other then a select few we'll let spawn under other circumstances). By default the book would contain pictures of land and question marks and faded images of monsters. If you flip to that page, and use the book on the terrain as described, it'll summon the respective mob. Killing that mob would fill in the image and name of the mob. To get the achievement you'd have to finish the book by summoning and killing all the mobs within.
+- Ice and Fire spawning needs _some_ kind of gating so that it can't be cheesed early on and seeing as the dragons are a little buggy
+- Industrial Foregoing might be a good tech mod to spend all that energy on
 
 - Allow chisel to make marble variants for astral sorcery
 
