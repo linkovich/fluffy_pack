@@ -83,13 +83,16 @@
 - Check to see if mekanism generators or tools actually includes something that's not already in mekanism
 - Maybe instead of removing the vanilla hopper, just make it require a metal gear ?
 - Start looking at magneticraft to fill some tech gaps in the early / mid-late game
-- Openblocks elevator is actually a lot more balanced then I thought originally and looks like it provides a cool tech-y feel
-- JAOPCA might provide more compat between our mods that add ore
 - Disable colored bricks, adobe from better with addons
 - Adjust obsidian boat recipe from netherex, or remove entirely
 - Grimoire of Gaia - Achievement - Finish the Grimoire of Gaia
   - Make the grimoire an actual book that is used to summon mobs from the book (other then a select few we'll let spawn under other circumstances). By default the book would contain pictures of land and question marks and faded images of monsters. If you flip to that page, and use the book on the terrain as described, it'll summon the respective mob. Killing that mob would fill in the image and name of the mob. To get the achievement you'd have to finish the book by summoning and killing all the mobs within.
 - Ice and Fire spawning needs _some_ kind of gating so that it can't be cheesed early on and seeing as the dragons are a little buggy
+- Advanced Hook Launchers up for review, may be removed
+- Armoreable mobs needs configuring
+- Disable all girl mobs from GoG for now
+- Move primal drying rack recipes to tinkers drying racks and remove primal drying rack
+- Remove primal slats
 
 - Allow chisel to make marble variants for astral sorcery
 
@@ -172,4 +175,9 @@ CONSIDER ADDING:
 - Zombie Awareness - moar difficulty
 - Worley's Caves - better cave generation
 - Floocraft - adds a floo powder system with multiblock fireplaces, seems like a cool little magic tree addition
-- Industrial Foregoing might be a good tech mod to spend all that energy on
+- Industrial Foregoing - might be a good tech mod to spend all that energy on
+- Integrated Dynamics - might be worth a look
+- Openblocks Elevator - actually a lot more balanced then I thought originally and looks like it provides a cool tech-y feel
+- JAOPCA - might provide more compat between our mods that add ore
+- Immersive Railroading - more interesting mid/late game tech geared towards travel
+- The One Probe - maybe we use a very basic waila until the one probe is available ?
