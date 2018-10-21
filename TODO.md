@@ -94,6 +94,7 @@
 - Rename BwM Slats (?)
 - Change wolf and ovis armor recipes to match vanilla
 - Zinc sariras recipe should return thaumcraft brass
+- Zinc ore shouldn't drop carbonate slack
 
 - Allow chisel to make marble variants for astral sorcery
 

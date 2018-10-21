@@ -40,7 +40,6 @@ static removeAndHideItems as IItemStack[] = [
 	<primal:sarsen_stone:*>,
 	<primal:blue_stone:*>,
 	<primal:ferro_stone:*>,
-	<primal:carbonate_stone:*>,
 	<primal:common_stone:*>,
 	<primal:schist_blue_stone:*>,
 	<primal:schist_green_stone:*>,
@@ -178,6 +177,8 @@ static removeAndHideItems as IItemStack[] = [
 	<primal:corypha_pin>,
 	<primal:tallow>,
 	<primal:bark_corypha>,
+	<primal:bark_ironwood>,
+	<primal:bark_yew>,
 	<primal:salo>,
 	<primal:ash_yew>,
 	<primal:ash_ironwood>,
@@ -198,17 +199,58 @@ static removeAndHideItems as IItemStack[] = [
 	<primal:cineris_grass>,
 	<primal:cineris_bloom>,
 	<primal:salt_netjry_block>,
-	<primal:cinus_clump>,
+	<primal:cinis_clump>,
 	<primal:muck>,
 	<primal:muck_molten>,
 	<primal:paraffin_clump>,
 	<primal:urushi_ground>,
 	<primal:inferum_ground>,
-	<primal:mortar>
+	<primal:mortar>,
+	<primal:barrel_trap>,
+	<primal:drain_ciniscotta>,
+	<primal:drain_schist_green>,
+	<primal:drain_nether_earth>,
+	<primal:drain_scoria>,
+	<primal:drain_netherstone>,
+	<primal:drain_carbonate_flag>,
+	<primal:drain_ferro_flag>,
+	<primal:carbonate_slack>,
+	<primal:grate_lacquer>,
+	<primal:ore_zinc:1>,
+	<primal:ore_zinc:2>,
+	<primal:rock_stone>,
+	<primal:rock_andesite>,
+	<primal:rock_diorite>,
+	<primal:rock_granite>,
+	<primal:rock_netherrack>,
+	<primal:rock_end>
+];
+
+static removedRecipes as string[] = [
+	"primal:unlit_torch_mote",
+	"primal:unlit_torch_coal",
+	"primal:unlit_torch_nether",
+	"primal:wood_pin_4",
+	"primal:diamond_helmet",
+	"primal:diamond_chestplate",
+	"primal:diamond_leggings",
+	"primal:diamond_boots",
+	"primal:iron_helmet",
+	"primal:iron_chestplate",
+	"primal:iron_leggings",
+	"primal:iron_boots",
+	"primal:gold_helmet",
+	"primal:gold_chestplate",
+	"primal:gold_leggings",
+	"primal:gold_boots"
 ];
 
 for item in removeAndHideItems {
 	mods.jei.JEI.removeAndHide(item);
+}
+
+for item in removedItemRecipes {
+	recipes.remove(item);
 }
 
 mods.primal.Cauldron.removeAll();
