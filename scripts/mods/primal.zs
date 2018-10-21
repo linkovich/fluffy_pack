@@ -106,7 +106,18 @@ static removeAndHideItems as IItemStack[] = [
   <primal:boat_lacquer>,
   <primal:dirt_stick>,
   <primal:glass_stick>,
-  <primal:golden_stick>
+  <primal:golden_stick>,
+	<primal:ore_salt:*>,
+	<primal:ore_iron>,
+	<primal:ore_bog_iron:*>,
+	<primal:ore_magnetite:*>,
+	<primal:ore_zinc:*>,
+	<primal:ore_opal>,
+	<primal:ladder_block_netherstone>,
+	<primal:obsidian_transparent:*>,
+	<primal:ironglass>,
+	<primal:soulglass>,
+	<primal:calcified_paraffin>
 ];
 
 for item in removeAndHideItems {
