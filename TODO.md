@@ -26,6 +26,8 @@
 - Niter should be "Nitre"
 
 - Add mortar recipe for ground resin from bark, mortar recipe itself
+- Add mill recipes for ground resin from bark
+- Remove resin recipes using primalcore's mortar
 - Replace harvestcraft mortar recipes with advanced mortar
 
 - Remove light from aetherium ore, aetherworks
@@ -72,9 +74,7 @@
 - Recipe for stripped logs should also return bark
 - Maybe remove all ore other then bog iron from the sariras, or allow regular iron ore to be smelted to bog iron
   - Then allow crude iron for the BWM cauldron
-- Netherrack torch recipe should return lit torch to match other torch recipes
 - Add Reborn Storage if it's not in already
-- Check into the charcoal from log stacks bug
 - Make general mod advancement tree to see what can be removed
 - Lava pools still showing in forest biomes :/
 - Catwalks missing footstep sounds
@@ -90,9 +90,10 @@
 - Ice and Fire spawning needs _some_ kind of gating so that it can't be cheesed early on and seeing as the dragons are a little buggy
 - Advanced Hook Launchers up for review, may be removed
 - Armoreable mobs needs configuring
-- Disable all girl mobs from GoG for now
-- Move primal drying rack recipes to tinkers drying racks and remove primal drying rack
-- Remove primal slats
+- Adjust strainer base recipe so it's reasonably accessible early game
+- Rename BwM Slats (?)
+- Change wolf and ovis armor recipes to match vanilla
+- Zinc sariras recipe should return thaumcraft brass
 
 - Allow chisel to make marble variants for astral sorcery
 

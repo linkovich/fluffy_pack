@@ -32,3 +32,10 @@ recipes.addShaped("linkovich_large_basket", <basketcase:container_basket_large>,
   [<betterwithmods:wicker>, <ore:cordage>, <betterwithmods:wicker>],
   [<betterwithmods:wicker>, <betterwithmods:wicker>, <betterwithmods:wicker>]
 ]);
+
+// Nether Torch Lit
+recipes.addShaped("linkovich_torch_nether_lit", <primal:torch_nether_lit>, [
+  [null, <ore:netherrack>, null],
+  [<ore:netherrack>, null, null],
+  [null, null, null]
+]);
