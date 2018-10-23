@@ -1,1 +1,179 @@
-
+- "To the Bat Poles!"
+- [ANGRY PIXEL] The Betweenlands
+- Advanced Hook Launchers
+- Aetherworks
+- Akashic Tome
+- Animania
+- Animus
+- Antique Atlas
+- AppleCore
+- AppleSkin
+- ArmoreableMobs
+- Armory Expansion
+- Astral Sorcery
+- AutoRegLib
+- B.A.S.E
+- Basketcase
+- Baubles
+- Bedrock B Gone
+- Better Advancements
+- Better Animal Models
+- Better Foliage (currently incompatible)
+- Better With Addons
+- Better With Engineering
+- Better With Mods
+- BetterFps
+- BetterWithLib
+- Biomes O' Plenty
+- BiomeTweaker
+- Blood Magic
+- Bloodmoon
+- Blur
+- BnBGamingCore
+- BNBGamingLib
+- Bookshelf
+- Born in a Barn
+- Botania
+- Bullseye
+- Carry On
+- Catwalks 4
+- Chameleon
+- Chisel
+- Client Tweaks
+- Cloche Call
+- CodeChicken Lib 1.8.+
+- Coloured Tooltips
+- ConnectedTexturesMod
+- Construct's Armory
+- ContentTweaker
+- Controlling
+- Corail Tombstone
+- CraftStudio API
+- CraftTweaker
+- Custom Nausea
+- Default Options
+- Despawning Spawners
+- Dynamic Surroundings
+- Embers Rekindled
+- Embersified
+- Enchantment Descriptions
+- Ender IO
+- EnderCore
+- Engineer's Doors
+- Exotic Birds
+- External Tweaker
+- Extra Rails
+- Fairy Lights
+- Familiar Fauna
+- Fancy Block Particles
+- Farseek
+- FastFurnace
+- FastWorkbench
+- Forge MultiPart CBE
+- ForgeEndertech
+- Grimoire of Gaia
+- Guide-API
+- Hardcore Buoyance
+- Hardcore Darkness
+- Harvester's Night
+- Horse Power
+- Hwyla
+- Ice and Fire: Dragons in a whole new light!
+- Immersive Engineering
+- Immersive Petroleum
+- Immersive Tech
+- Improved Backpacks
+- In Control!
+- Informational Accessories
+- Inventory Tweaks
+- IvToolkit
+- JourneyMap
+- Just a Few Fish
+- Just A Raft Mod
+- Just Enough Items (JEI)
+- Just Enough Petroleum
+- JustTheTips
+- KleeSlabs
+- LibEx
+- LibrarianLib
+- LLibrary
+- LootTweaker
+- Magical Psi
+- Mantle
+- Mekanism
+- Mekanism Generators
+- Mekanism Tools
+- Minecraft Comes Alive (MCA)
+- MmmMmmMmmMmm
+- Mo' Bends
+- ModTweaker
+- Mouse Tweaks
+- Mowzie's Mobs
+- MrTJPCore
+- MTLib
+- Mundane Redstone Ore
+- Nature's Compass
+- Neat
+- NetherEx
+- No Recipe Book
+- NuclearCraft
+- Nutrition-1.12.2-3.5.0
+- Open Glider
+- OpenComputers
+- Orbis API
+- Pam's HarvestCraft
+- PamSimpleHarvest
+- Pewter
+- Placebo
+- PrimalCore
+- Project Red - Base
+- Project Red - Compat
+- Project Red - Integration
+- Project Red - Lighting
+- Project Red - Mechanical
+- Psi
+- Quark
+- Quick Leaf Decay
+- RadixCore
+- Realistic Item Drops
+- Recurrent Complex
+- Refined Storage
+- Resource Loader
+- Scannable
+- Serene Seasons
+- Shadowfacts' Forgelin
+- ShadowMC
+- Signpost
+- Simple Camp Fire
+- SimpleHarvest
+- Smooth Font
+- Soot
+- Sophisticated Wolves
+- Sound Filters
+- Spartan Shields
+- Storage Drawers
+- Streams
+- Super Sound Muffler
+- SwingThroughGrass
+- Thaumcraft
+- Thaumic Periphery
+- The Aether II
+- The Beneath
+- Thirsty Bottles
+- Tinker's JEI
+- Tinkers Construct
+- Tinkers' Complement
+- TipTheScales
+- Toast Control
+- Totemic
+- Triumph
+- Tweakers Construct
+- UniDict
+- ViesCraft - Airships
+- Villager Trade Tables
+- WanionLib
+- Water Strainer
+- Wawla - What Are We Looking At
+- Wither Skeleton Tweaks
+- Wizardry Mod
+- Yoyos

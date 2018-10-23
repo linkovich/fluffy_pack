@@ -109,6 +109,8 @@
 - Embers structure spawnrate might be a tad high
 - Basketcase baskets need to be able to use ANY cordage (possibly need to oredict primal cordage)
 - Alternate recipes for BwM wicker (?)
+- Remove ability to mine iron from the flint pick
+- Probably can remove extTweaker - not really as useful as I originally thought
 
 - Allow chisel to make marble variants for astral sorcery
 
