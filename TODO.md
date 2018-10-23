@@ -95,6 +95,20 @@
 - Change wolf and ovis armor recipes to match vanilla
 - Zinc sariras recipe should return thaumcraft brass
 - Zinc ore shouldn't drop carbonate slack
+- Viescraft only showing 1 airship type ?
+- Loot needs to be tweaked HARD - abandoned mineshaft found with nuclearcraft parts
+- Tombstone mod allows teleporting to grave - nerf heavily, or consider removing
+- Fix monsters wearing any armor
+- Animania animals cooked meat gives WAY too many buffs
+- Tombstone magic recipes need heavy nerfs
+- Nerf chest recipe to require saw, encourage basketcase baskets
+- Add recipes to horse power grinder and press
+- Reduce return on axe inventory planks and saw inventory planks recipes, both give 2 but saw also gives sawdust maybe, horse power chopping block should give 3
+- In world chopping block should give 3
+- Remove horse power manual grindstone, add all those recipes to stone mortar
+- Embers structure spawnrate might be a tad high
+- Basketcase baskets need to be able to use ANY cordage (possibly need to oredict primal cordage)
+- Alternate recipes for BwM wicker (?)
 
 - Allow chisel to make marble variants for astral sorcery
 
@@ -124,7 +138,7 @@ CONSIDER ADDING:
 - Caliper - when we need to optimize the pack
 - Clef - just a fun mod, low priority
 - Clumps - performance
-- Cooking for Blockheads - if we can remove the kitchen stuff or gate/require power/water for it to work
+- Cooking for Blockheads - would be great if we could require power/water for it to work
 - Cyclic - a select few blocks and items are useful, but would need to be heavily configured
 - Dark Utilities - same as above
 - Dark Roleplay Medieval - probably don't need the deco blocks here
