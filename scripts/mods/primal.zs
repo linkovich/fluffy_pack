@@ -80,6 +80,7 @@ static removeAndHideItems as IItemStack[] = [
 	<primal:door_corypha>,
 	<primal:door_ironwood>,
 	<primal:door_yew>,
+	<primal:door_lacquer>,
 	<primal:brick_mold:6>,
 	<primal:brick_mold:7>,
 	<primal:brick_mold:8>,
@@ -127,6 +128,7 @@ static removeAndHideItems as IItemStack[] = [
 	<primal:gate_corypha>,
 	<primal:gate_ironwood>,
 	<primal:gate_yew>,
+	<primal:gate_lacquer>,
 	<primal:fish_trap:*>,
 	<primal:animal_fat>,
 	<primal:animal_fat_nether>,
@@ -223,7 +225,10 @@ static removeAndHideItems as IItemStack[] = [
 	<primal:rock_diorite>,
 	<primal:rock_granite>,
 	<primal:rock_netherrack>,
-	<primal:rock_end>
+	<primal:rock_end>,
+	<primal:metalblock:1>,
+	<primal:metalblock:6>,
+	<primal:metalblock:7>
 ];
 
 static removedRecipes as string[] = [
