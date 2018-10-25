@@ -7,7 +7,11 @@ static removeAndHideItems as IItemStack[] = [
 	<advancedmortars:mortar:3>,
 
 	// Vanilla
-	<minecraft:stone_axe>
+	<minecraft:stone_axe>,
+	<minecraft:stone_pickaxe>,
+	<minecraft:stone_shovel>,
+	<minecraft:stone_hoe>,
+	<minecraft:stone_sword>
 ];
 
 for item in removeAndHideItems {

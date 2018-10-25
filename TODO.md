@@ -82,14 +82,12 @@
 - Add Cravings mod and configure to be rare, add minimal benefits/drawbacks. Want it to be a nice little addition to the food side, not an intrusive thing
 - Check to see if mekanism generators or tools actually includes something that's not already in mekanism
 - Maybe instead of removing the vanilla hopper, just make it require a metal gear ?
-- Start looking at magneticraft to fill some tech gaps in the early / mid-late game
 - Disable colored bricks, adobe from better with addons
 - Adjust obsidian boat recipe from netherex, or remove entirely
 - Grimoire of Gaia - Achievement - Finish the Grimoire of Gaia
   - Make the grimoire an actual book that is used to summon mobs from the book (other then a select few we'll let spawn under other circumstances). By default the book would contain pictures of land and question marks and faded images of monsters. If you flip to that page, and use the book on the terrain as described, it'll summon the respective mob. Killing that mob would fill in the image and name of the mob. To get the achievement you'd have to finish the book by summoning and killing all the mobs within.
 - Ice and Fire spawning needs _some_ kind of gating so that it can't be cheesed early on and seeing as the dragons are a little buggy
 - Advanced Hook Launchers up for review, may be removed
-- Armoreable mobs needs configuring
 - Adjust strainer base recipe so it's reasonably accessible early game
 - Rename BwM Slats (?)
 - Change wolf and ovis armor recipes to match vanilla
@@ -98,7 +96,6 @@
 - Viescraft only showing 1 airship type ?
 - Loot needs to be tweaked HARD - abandoned mineshaft found with nuclearcraft parts
 - Tombstone mod allows teleporting to grave - nerf heavily, or consider removing
-- Fix monsters wearing any armor
 - Animania animals cooked meat gives WAY too many buffs
 - Tombstone magic recipes need heavy nerfs
 - Nerf chest recipe to require saw, encourage basketcase baskets
@@ -108,9 +105,14 @@
 - Remove horse power manual grindstone, add all those recipes to stone mortar
 - Embers structure spawnrate might be a tad high
 - Basketcase baskets need to be able to use ANY cordage (possibly need to oredict primal cordage)
-- Alternate recipes for BwM wicker (?)
-- Remove ability to mine iron from the flint pick
+- Alternate recipes for BwM wicker (allow any cordage?)
 - Probably can remove extTweaker - not really as useful as I originally thought
+- Weather mod could use some config
+- Rename "Weather Item" to something more technology-oriented
+- Strip down magneticraft to just the items and multiblocks we want
+- Add clay bucket to kiln
+- Make sure charcoal is still available through kiln
+- Change recipe for glass slab to use better with addons diamond saw
 
 - Allow chisel to make marble variants for astral sorcery
 
@@ -119,10 +121,6 @@
 
 - Rename
   - "Ear Defenders" immersive engineering
-
-- Remove completely
-  - Vanilla hopper
-  - Syrmorite hopper, betweenlands
 
 
 NOTES:
@@ -166,7 +164,6 @@ CONSIDER ADDING:
 - Aquaculture - if fishing could be better
 - More water mods in general - the ocean could be more interesting
 - Landlust Furniture - another deco mod option, probably not needed
-- Magneticraft - would need to strip out only the multiblocks we want and adjust their recipes
 - Millenaire - probably not our style, and would take major balancing changes
 - Minecolonies - probably not our style, and would take major balancing changes
 - Mob Dismemberment - that gore though
