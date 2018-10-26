@@ -1,19 +1,18 @@
 - Disable PC barks after updating recipes
 - Change bark work tool recipe to return BwM bark
-- Change texture for bloodwood bark to match PC, use PC barks instead of BWM
 
-- Add better easy flint recipe
+- Add better easy flint recipe, sluice box can do a more efficient one (possible 2 gravel and a small chance or ore)
 
 - Require resin or dung for tanning leather, no bark
 - Add resin recipe to BWM cauldron
-- Add PC bark recipe to BWM millstone
+- Add PC bark recipe to BWM millstone ???
 
 - Allow scouring leather with work tool ??
 
-- Disable PC changes to vanilla armor recipes
+- Add back vanilla armor recipes ?? (could possibly hide them and require they be acquired through other means, or tinkers armor be used)
 
 - Disable PC slats, except iron (?)
-- Change BWM slats to use sticks, no reason to gate them behind the saw
+- Change BWM slats to use sticks, no reason to gate them behind the saw, or swap the two
 - Change recipes to use BWM slats
 
 - Change black bear loot table to not drop pelt, alternatively, change pelt recipe to give leather with work tool
@@ -23,12 +22,11 @@
 - Make beds require siding (encourage thatch beds early)
 - Make gears require glue/slime any, this will put millstone after the cauldron, which will need a source of fire that lasts a while
 - Add more raft recipe variants (twine, rope)
-- Niter should be "Nitre"
 
 - Add mortar recipe for ground resin from bark, mortar recipe itself
 - Add mill recipes for ground resin from bark
 - Remove resin recipes using primalcore's mortar
-- Replace harvestcraft mortar recipes with advanced mortar
+- Replace harvestcraft mortar recipes with advanced mortar, add advanced recipe versions to other machines
 
 - Remove light from aetherium ore, aetherworks
 - Manasteel should require steel, or maybe soulforged steel or either
@@ -38,34 +36,22 @@
 - Make wooden rails require treated wood and change the texture
 - Gate the phoenix egg behind other magic mods
 - Make nests require more sticks or plant fiber
-- Mob spawning may need overall adjustments to narrow biomes and allow wolves to spawn
 - Fix wolves dropping two types of meat, favor wolf chop
-- Wolf and ocelot spawns seem very rare, may need to fix
+- Ocelot spawns seem very rare, may need to fix
 - GoG needs HEAVY loottable tweaking, spawnrate tuning as well as refining where and when the mobs spawn
-- Ice and Fire Dragons - needs HEAVY config and balancing
-- Disable journeymap until a high-tech item is acquired
+- Ice and Fire Dragons - needs HEAVY config and balancing, possibly remove entirely
+- Disable journeymap until a high-tech item is acquired AND is in the players inventory
 - Disable waila until a tech item is acquired, allow neat until then (?)
-- Disable horsepower grindstone
 - Disable horsepower flour and dough
 - Add recipe for mowzie's earth charm to magic tree as side gig
 - Restrict foliaath to groups of 1
 - Worldgen of gorgon temples is a little weird
-- Astral sorcery temples still a little too common (?)
-- Dragons are a little glitchy
 - Configure nature's compass and put it somewhere fairly early in the magic tech tree
 - Need to heavily nerf adventure structure and mob mods so that those things are oddities as opposed to every two biomes
 - Make the nuclear wasteland smaller or disable it - not sure if it's needed for something
-- Checkout Enigmatica Expert 2 to see how they handled Ice and Fire and a few other mods
 - Possibly disable neat since we have waila, unless we want to stage waila
-- Fix overworld lava pools being too common, remove completely from forests
-- Configure or possibly disable temperature and thirst parts of tough as nails - thirst at least may be too tedious
-- Need to disable many structures from reccomplex
+- Need to disable many structures from reccomplex - ONGOING
 - Adjust achievements window - no more background fading when hovering
-- Surface magma monsters just should not happen, restrict Y level
-- Selkies should spawn as a rare 1-of only
-- Selkies should drop only fur
-- GoG fur should only convert to leather with work tool or millstone
-- Birds nests should be less common
 - Fish shouldn't spawn in mana
 - Short grass should drop plant fiber
 - It's weird that you can eat harvestcraft cotton
@@ -75,12 +61,9 @@
 - Maybe remove all ore other then bog iron from the sariras, or allow regular iron ore to be smelted to bog iron
   - Then allow crude iron for the BWM cauldron
 - Add Reborn Storage if it's not in already
-- Make general mod advancement tree to see what can be removed
-- Lava pools still showing in forest biomes :/
 - Catwalks missing footstep sounds
 - Catwalk rendering issues
 - Add Cravings mod and configure to be rare, add minimal benefits/drawbacks. Want it to be a nice little addition to the food side, not an intrusive thing
-- Check to see if mekanism generators or tools actually includes something that's not already in mekanism
 - Maybe instead of removing the vanilla hopper, just make it require a metal gear ?
 - Disable colored bricks, adobe from better with addons
 - Adjust obsidian boat recipe from netherex, or remove entirely
@@ -104,19 +87,21 @@
 - In world chopping block should give 3
 - Remove horse power manual grindstone, add all those recipes to stone mortar
 - Embers structure spawnrate might be a tad high
-- Basketcase baskets need to be able to use ANY cordage (possibly need to oredict primal cordage)
 - Alternate recipes for BwM wicker (allow any cordage?)
 - Probably can remove extTweaker - not really as useful as I originally thought
-- Weather mod could use some config
+- Weather2 mod could use some config
 - Rename "Weather Item" to something more technology-oriented
 - Strip down magneticraft to just the items and multiblocks we want
 - Add clay bucket to kiln
 - Make sure charcoal is still available through kiln
 - Change recipe for glass slab to use better with addons diamond saw
+- Thermal Foundation needs heavy config
+- Thermal Dynamics recipes need looking at
+- Still seeing armored mobs, need to fix that
 
 - Allow chisel to make marble variants for astral sorcery
 
-- Test and configure tombstone mod
+- Test and configure tombstone mod, consider removing (most of what it adds is incredibly OP, items being lost is a fair punishment so long as mobs are balanced and gated properly)
 - Test and adjust despawning spawners
 
 - Rename
@@ -170,7 +155,6 @@ CONSIDER ADDING:
 - Mystic World - some more passive mob options, low priority, would need config
 - Natura - mainly just for more door options and imps, we don't really want their trees to generate without heavy config, very low priority
 - Animalium - more dangerous wildlife, low priority
-- Pickle Tweaks - literally the only thing we want is the mesh for the easy gravel recipe
 - Primitive Mobs - a few more interesting mobs, and a few we'd need to disable
 - Reliquary - if we need more magic stuff to fill in gaps, will need to research
 - Roots - if we need more magic stuff to fill in gaps, will need to research
@@ -190,7 +174,6 @@ CONSIDER ADDING:
 - Zombie Awareness - moar difficulty
 - Worley's Caves - better cave generation
 - Floocraft - adds a floo powder system with multiblock fireplaces, seems like a cool little magic tree addition
-- Industrial Foregoing - might be a good tech mod to spend all that energy on
 - Integrated Dynamics - might be worth a look
 - Openblocks Elevator - actually a lot more balanced then I thought originally and looks like it provides a cool tech-y feel
 - JAOPCA - might provide more compat between our mods that add ore

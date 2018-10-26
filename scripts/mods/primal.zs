@@ -359,10 +359,10 @@ static removedRecipes as string[] = [
 	"primal:iron_chestplate",
 	"primal:iron_leggings",
 	"primal:iron_boots",
-	"primal:gold_helmet",
-	"primal:gold_chestplate",
-	"primal:gold_leggings",
-	"primal:gold_boots"
+	"primal:golden_helmet",
+	"primal:golden_chestplate",
+	"primal:golden_leggings",
+	"primal:golden_boots"
 ];
 
 for item in removeAndHideItems {
