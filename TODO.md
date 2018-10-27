@@ -6,15 +6,13 @@
 - Adjust the beneath ore spawning to gate some stuff we want only after the nether, after we finalize ores of course
 - HUD Features of dynamic surroundings might need to be disabled
 - Look into paper-making and progressively better paper
-- EnderCore has some tweaks that may need to be looked at
 - May need to remove UniDict and do the unification ourselves
-- Check to see if we have circuit boards and whatnot for late game machines
 - Consider removing snail spawn from familiar fauna since snails spawn in the betweenlands and we'd like to keep their spawns unique if possible
-- May need to configure better foliage/weather2 for performance
-- Need other performance tweaks
+- May need to configure better foliage/weather2 for performance, specifically reduce particles (?) and population on BF
 - Slime biomes too common
 - Dragon roosts too common
 - Better foliage grass too common
+- Larger structures from reccomplex causing crashes on chunk gen
 
 - Disable PC barks after updating recipes
 - Change bark work tool recipe to return BwM bark
@@ -48,7 +46,6 @@
 
 - Remove light from aetherium ore, aetherworks
 - Manasteel should require steel, or maybe soulforged steel or either
-- EnderIO should be gated _much_ more heavily
 - Switch betweenlands items to use bauble slots, extra amulets should use inventory slots
 - Extra Rails teleporting rail should require a magic mod item as a prerequisite
 - Make wooden rails require treated wood and change the texture
@@ -182,7 +179,7 @@ CONSIDER ADDING:
 - Tumbleweed - just a little more ambience
 - Vampirism - might be a cool addition to the magic tree, but would need balancing and research
 - Wild Crops - probably not needed with harvestcraft gardens
-- Electroblob's Wizardry - another interesting spell mod
+- Electroblob's Wizardry - another interesting spell mod, would need to be heavily balanced
 - XNet and Ynot - interesting endgame tech
 - Zombie Awareness - moar difficulty
 - Worley's Caves - better cave generation
@@ -194,3 +191,4 @@ CONSIDER ADDING:
 - The One Probe - maybe we use a very basic waila until the one probe is available ?
 - /dank/null - seems interesting because we aren't using any of the utility item/block mods like cyclic, recipes would need adjusting
 - Block Drops (JEI Addon) - seems like a good dev tool
+- JustEnoughIDs - should fix any block id and item id issues we have if we're running into any, which we might be
