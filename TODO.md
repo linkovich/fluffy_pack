@@ -10,7 +10,12 @@
 - Slime islands still too common
 - Dragon roosts too common
 - Larger structures from reccomplex causing crashes on chunk gen
-
+- Strainer base recipe shouldn't require iron, unless we wanna make this the advanced version and use primal's fish traps
+- Add more bait options to strainer
+- Disable primal fish trap entirely (?)
+- If we keep primal fish trap, unify bait sources across it and fisherman's strainer
+- Not a huge deal, but campfire mod places lit, would be good if we could light it to have it run
+- Campfire mod cooks twice as fast as furnace, need to tweak that to be lower, contenttweaker ?
 - Disable PC barks after updating recipes
 - Change bark work tool recipe to return BwM bark
 

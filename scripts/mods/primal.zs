@@ -350,19 +350,7 @@ static removedRecipes as string[] = [
 	"primal:unlit_torch_mote",
 	"primal:unlit_torch_coal",
 	"primal:unlit_torch_nether",
-	"primal:wood_pin_4",
-	"primal:diamond_helmet",
-	"primal:diamond_chestplate",
-	"primal:diamond_leggings",
-	"primal:diamond_boots",
-	"primal:iron_helmet",
-	"primal:iron_chestplate",
-	"primal:iron_leggings",
-	"primal:iron_boots",
-	"primal:golden_helmet",
-	"primal:golden_chestplate",
-	"primal:golden_leggings",
-	"primal:golden_boots"
+	"primal:wood_pin_4"
 ];
 
 for item in removeAndHideItems {
