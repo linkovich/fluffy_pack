@@ -2,16 +2,13 @@
 - Delete and re-generate amulet enchantments config for astral sorcery to add the missing enchants (?)
 - Look into where hooks fit into the tech tree and adjust accordingly
 - The Beneath could gate certain magic mods - ex. Mana could be found only in the beneath, which requires a nether star to get to
-  - same with the initial embers stuff (?)
 - Adjust the beneath ore spawning to gate some stuff we want only after the nether, after we finalize ores of course
 - HUD Features of dynamic surroundings might need to be disabled
 - Look into paper-making and progressively better paper
 - May need to remove UniDict and do the unification ourselves
 - Consider removing snail spawn from familiar fauna since snails spawn in the betweenlands and we'd like to keep their spawns unique if possible
-- May need to configure better foliage/weather2 for performance, specifically reduce particles (?) and population on BF
-- Slime biomes too common
+- Slime islands still too common
 - Dragon roosts too common
-- Better foliage grass too common
 - Larger structures from reccomplex causing crashes on chunk gen
 
 - Disable PC barks after updating recipes
