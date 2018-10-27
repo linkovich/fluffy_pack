@@ -1,6 +1,7 @@
 - "To the Bat Poles!"
 - [ANGRY PIXEL] The Betweenlands
 - Advanced Hook Launchers
+- Advanced Mortars
 - Aetherworks
 - Akashic Tome
 - Animania
@@ -8,7 +9,6 @@
 - Antique Atlas
 - AppleCore
 - AppleSkin
-- ArmoreableMobs
 - Armory Expansion
 - Astral Sorcery
 - AutoRegLib
@@ -18,7 +18,7 @@
 - Bedrock B Gone
 - Better Advancements
 - Better Animal Models
-- Better Foliage (currently incompatible)
+- Better Foliage
 - Better With Addons
 - Better With Engineering
 - Better With Mods
@@ -38,16 +38,22 @@
 - Carry On
 - Catwalks 4
 - Chameleon
+- Charset Lib
 - Chisel
+- Chunk-Pregenerator
+- Clay Bucket
 - Client Tweaks
 - Cloche Call
 - CodeChicken Lib 1.8.+
+- CoFH Core
+- CoFH World
 - Coloured Tooltips
 - ConnectedTexturesMod
 - Construct's Armory
 - ContentTweaker
 - Controlling
 - Corail Tombstone
+- CoroUtil
 - CraftStudio API
 - CraftTweaker
 - Custom Nausea
@@ -57,8 +63,6 @@
 - Embers Rekindled
 - Embersified
 - Enchantment Descriptions
-- Ender IO
-- EnderCore
 - Engineer's Doors
 - Exotic Birds
 - External Tweaker
@@ -69,7 +73,7 @@
 - Farseek
 - FastFurnace
 - FastWorkbench
-- Forge MultiPart CBE
+- FoamFix for Minecraft
 - ForgeEndertech
 - Grimoire of Gaia
 - Guide-API
@@ -84,6 +88,7 @@
 - Immersive Tech
 - Improved Backpacks
 - In Control!
+- Industrial Foregoing
 - Informational Accessories
 - Inventory Tweaks
 - IvToolkit
@@ -99,17 +104,18 @@
 - LLibrary
 - LootTweaker
 - Magical Psi
+- Magneticraft
 - Mantle
+- MCMultiPart
 - Mekanism
 - Mekanism Generators
-- Mekanism Tools
 - Minecraft Comes Alive (MCA)
 - MmmMmmMmmMmm
 - Mo' Bends
+- ModelLoader
 - ModTweaker
 - Mouse Tweaks
 - Mowzie's Mobs
-- MrTJPCore
 - MTLib
 - Mundane Redstone Ore
 - Nature's Compass
@@ -126,17 +132,13 @@
 - Pewter
 - Placebo
 - PrimalCore
-- Project Red - Base
-- Project Red - Compat
-- Project Red - Integration
-- Project Red - Lighting
-- Project Red - Mechanical
 - Psi
 - Quark
 - Quick Leaf Decay
 - RadixCore
 - Realistic Item Drops
 - Recurrent Complex
+- Redstone Flux
 - Refined Storage
 - Resource Loader
 - Scannable
@@ -146,6 +148,8 @@
 - Signpost
 - Simple Camp Fire
 - SimpleHarvest
+- SimpleLogic Gates
+- SimpleLogic Wires
 - Smooth Font
 - Soot
 - Sophisticated Wolves
@@ -155,10 +159,13 @@
 - Streams
 - Super Sound Muffler
 - SwingThroughGrass
+- Tesla Core Lib
 - Thaumcraft
 - Thaumic Periphery
 - The Aether II
 - The Beneath
+- Thermal Dynamics
+- Thermal Foundation
 - Thirsty Bottles
 - Tinker's JEI
 - Tinkers Construct
@@ -169,11 +176,13 @@
 - Triumph
 - Tweakers Construct
 - UniDict
+- VanillaFix
 - ViesCraft - Airships
 - Villager Trade Tables
 - WanionLib
 - Water Strainer
 - Wawla - What Are We Looking At
+- Weather, Storms & Tornadoes
 - Wither Skeleton Tweaks
 - Wizardry Mod
 - Yoyos
