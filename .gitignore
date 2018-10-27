@@ -32,3 +32,4 @@ crash-reports/
 /config/AppliedEnergistics2/recipes/*
 *.csv
 *.dll
+/.mixin.out/

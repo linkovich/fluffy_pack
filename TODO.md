@@ -1,3 +1,21 @@
+- Check aevitas ore perk, treasure shrine and mineralis ritual and match with our ores once we've finalized ores
+- Delete and re-generate amulet enchantments config for astral sorcery to add the missing enchants (?)
+- Look into where hooks fit into the tech tree and adjust accordingly
+- The Beneath could gate certain magic mods - ex. Mana could be found only in the beneath, which requires a nether star to get to
+  - same with the initial embers stuff (?)
+- Adjust the beneath ore spawning to gate some stuff we want only after the nether, after we finalize ores of course
+- HUD Features of dynamic surroundings might need to be disabled
+- Look into paper-making and progressively better paper
+- EnderCore has some tweaks that may need to be looked at
+- May need to remove UniDict and do the unification ourselves
+- Check to see if we have circuit boards and whatnot for late game machines
+- Consider removing snail spawn from familiar fauna since snails spawn in the betweenlands and we'd like to keep their spawns unique if possible
+- May need to configure better foliage/weather2 for performance
+- Need other performance tweaks
+- Slime biomes too common
+- Dragon roosts too common
+- Better foliage grass too common
+
 - Disable PC barks after updating recipes
 - Change bark work tool recipe to return BwM bark
 
@@ -98,20 +116,15 @@
 - Thermal Foundation needs heavy config
 - Thermal Dynamics recipes need looking at
 - Still seeing armored mobs, need to fix that
+- Go through ALL the configs and see if there's other things we can change
 
 - Allow chisel to make marble variants for astral sorcery
 
 - Test and configure tombstone mod, consider removing (most of what it adds is incredibly OP, items being lost is a fair punishment so long as mobs are balanced and gated properly)
-- Test and adjust despawning spawners
-
-- Rename
-  - "Ear Defenders" immersive engineering
-
+- Test and adjust despawning spawners (since vanilla is infinite, leaving this at default is probably fine)
 
 NOTES:
-- Realistic drops has a dupe workaround that may cause problems with machines that check their drops before subtracting items.
-May need to disable if it has noticeable side effects.
-- Better Foliage - doesn't work with current version of forge
+- Realistic drops has a dupe workaround that may cause problems with machines that check their drops before subtracting items. May need to disable if it has noticeable side effects.
 - Stellar Sky - incompabitible with thaumcraft and astral sorcery and bloodmoon currently
 
 CONSIDER ADDING:
@@ -179,3 +192,5 @@ CONSIDER ADDING:
 - JAOPCA - might provide more compat between our mods that add ore
 - Immersive Railroading - more interesting mid/late game tech geared towards travel
 - The One Probe - maybe we use a very basic waila until the one probe is available ?
+- /dank/null - seems interesting because we aren't using any of the utility item/block mods like cyclic, recipes would need adjusting
+- Block Drops (JEI Addon) - seems like a good dev tool
