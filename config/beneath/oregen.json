@@ -10,8 +10,8 @@
     "maxy": 246
   },
   {
-    "ore": "minecraft:iron_ore",
-    "oremeta": 0,
+    "ore": "oresalleasy:stone_ore",
+    "oremeta": 1,
     "source": "minecraft:stone",
     "srcmeta": 0,
     "veins": 24,
@@ -40,7 +40,7 @@
     "maxy": 246
   },
   {
-    "ore": "minecraft:gold_ore",
+    "ore": "oresalleasy:stone_ore",
     "oremeta": 0,
     "source": "minecraft:stone",
     "srcmeta": 0,
@@ -76,6 +76,146 @@
     "srcmeta": 0,
     "veins": 48,
     "size": 24,
+    "miny": 10,
+    "maxy": 246
+  },
+  {
+    "ore": "oresalleasy:stone_ore",
+    "oremeta": 2,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 24,
+    "size": 8,
+    "miny": 10,
+    "maxy": 246
+  },
+  {
+    "ore": "oresalleasy:stone_ore",
+    "oremeta": 3,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 6,
+    "size": 12,
+    "miny": 10,
+    "maxy": 246
+  },
+  {
+    "ore": "oresalleasy:stone_ore",
+    "oremeta": 4,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 6,
+    "size": 12,
+    "miny": 10,
+    "maxy": 246
+  },
+  {
+    "ore": "oresalleasy:stone_ore",
+    "oremeta": 5,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 12,
+    "size": 12,
+    "miny": 10,
+    "maxy": 246
+  },
+  {
+    "ore": "oresalleasy:stone_ore",
+    "oremeta": 6,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 6,
+    "size": 12,
+    "miny": 10,
+    "maxy": 246
+  },
+  {
+    "ore": "oresalleasy:stone_ore",
+    "oremeta": 7,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 3,
+    "size": 6,
+    "miny": 10,
+    "maxy": 246
+  },
+  {
+    "ore": "oresalleasy:stone_ore",
+    "oremeta": 8,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 11,
+    "size": 12,
+    "miny": 10,
+    "maxy": 246
+  },
+  {
+    "ore": "oresalleasy:stone_ore",
+    "oremeta": 9,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 3,
+    "size": 12,
+    "miny": 10,
+    "maxy": 246
+  },
+  {
+    "ore": "oresalleasy:stone_ore",
+    "oremeta": 10,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 5,
+    "size": 8,
+    "miny": 10,
+    "maxy": 246
+  },
+  {
+    "ore": "oresalleasy:stone_ore",
+    "oremeta": 11,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 5,
+    "size": 8,
+    "miny": 10,
+    "maxy": 246
+  },
+  {
+    "ore": "oresalleasy:stone_ore",
+    "oremeta": 12,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 3,
+    "size": 8,
+    "miny": 10,
+    "maxy": 246
+  },
+  {
+    "ore": "oresalleasy:stone_ore",
+    "oremeta": 13,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 3,
+    "size": 12,
+    "miny": 10,
+    "maxy": 246
+  },
+  {
+    "ore": "oresalleasy:stone_ore",
+    "oremeta": 14,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 3,
+    "size": 12,
+    "miny": 10,
+    "maxy": 246
+  },
+  {
+    "ore": "oresalleasy:stone_ore",
+    "oremeta": 15,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 3,
+    "size": 12,
     "miny": 10,
     "maxy": 246
   }
