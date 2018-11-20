@@ -699,6 +699,70 @@
       "minGroupCount": 1,
       "maxGroupCount": 6,
       "spawn": true
+    },
+    {
+      "entity": "animania:sow_large_black",
+      "creatureType": "creature",
+      "weight": 8,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "animania:doe_nigerian_dwarf",
+      "creatureType": "creature",
+      "weight": 6,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "animania:doe_jack",
+      "creatureType": "creature",
+      "weight": 6,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "iceandfire:deathworm",
+      "creatureType": "creature",
+      "weight": 1,
+      "minGroupCount": 1,
+      "maxGroupCount": 3,
+      "spawn": true
+    },
+    {
+      "entity": "exoticbirds:ostrich",
+      "creatureType": "creature",
+      "weight": 2,
+      "minGroupCount": 2,
+      "maxGroupCount": 5,
+      "spawn": true
+    },
+    {
+      "entity": "exoticbirds:roadrunner",
+      "creatureType": "creature",
+      "weight": 5,
+      "minGroupCount": 2,
+      "maxGroupCount": 5,
+      "spawn": true
+    },
+    {
+      "entity": "exoticbirds:vulture",
+      "creatureType": "creature",
+      "weight": 4,
+      "minGroupCount": 2,
+      "maxGroupCount": 5,
+      "spawn": true
+    },
+    {
+      "entity": "primal:ovis_atre",
+      "creatureType": "creature",
+      "weight": 1,
+      "minGroupCount": 1,
+      "maxGroupCount": 6,
+      "spawn": true
     }
   ],
   "features": []

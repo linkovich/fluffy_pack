@@ -235,6 +235,30 @@
       "minGroupCount": 1,
       "maxGroupCount": 6,
       "spawn": true
+    },
+    {
+      "entity": "animania:sow_large_black",
+      "creatureType": "creature",
+      "weight": 8,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "animania:cow_mooshroom",
+      "creatureType": "creature",
+      "weight": 8,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "primal:ovis_atre",
+      "creatureType": "creature",
+      "weight": 1,
+      "minGroupCount": 1,
+      "maxGroupCount": 6,
+      "spawn": true
     }
   ],
   "features": []
