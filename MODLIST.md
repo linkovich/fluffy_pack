@@ -52,6 +52,7 @@
 - Construct's Armory
 - ContentTweaker
 - Controlling
+- Cooking for Blockheads
 - Corail Tombstone
 - CoroUtil
 - CraftStudio API
@@ -60,6 +61,7 @@
 - Default Options
 - Despawning Spawners
 - Dynamic Surroundings
+- Earthworks
 - Embers Rekindled
 - Embersified
 - Enchantment Descriptions
@@ -71,7 +73,6 @@
 - Familiar Fauna
 - Fancy Block Particles
 - Farseek
-- FastFurnace
 - FastWorkbench
 - FoamFix for Minecraft
 - ForgeEndertech
@@ -125,8 +126,10 @@
 - NuclearCraft
 - Nutrition-1.12.2-3.5.0
 - Open Glider
+- OpenBlocks Elevator
 - OpenComputers
 - Orbis API
+- OresAllEasy
 - Pam's HarvestCraft
 - PamSimpleHarvest
 - Pewter
@@ -175,11 +178,9 @@
 - Totemic
 - Triumph
 - Tweakers Construct
-- UniDict
 - VanillaFix
 - ViesCraft - Airships
 - Villager Trade Tables
-- WanionLib
 - Water Strainer
 - Wawla - What Are We Looking At
 - Weather, Storms & Tornadoes
