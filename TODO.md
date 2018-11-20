@@ -1,3 +1,5 @@
+- Go through ALL the configs and see if there's other things we can change
+
 - Check aevitas ore perk, treasure shrine and mineralis ritual and match with our ores once we've finalized ores
 - Delete and re-generate amulet enchantments config for astral sorcery to add the missing enchants (?)
 - Look into where hooks fit into the tech tree and adjust accordingly
@@ -5,7 +7,6 @@
 - Adjust the beneath ore spawning to gate some stuff we want only after the nether, after we finalize ores of course
 - HUD Features of dynamic surroundings might need to be disabled
 - Look into paper-making and progressively better paper
-- May need to remove UniDict and do the unification ourselves
 - Consider removing snail spawn from familiar fauna since snails spawn in the betweenlands and we'd like to keep their spawns unique if possible
 - Slime islands still too common
 - Dragon roosts too common
@@ -18,8 +19,15 @@
 - Campfire mod cooks twice as fast as furnace, need to tweak that to be lower, contenttweaker ?
 - Disable PC barks after updating recipes
 - Change bark work tool recipe to return BwM bark
+- EFLN should be much more difficult to make or require a late game item
+- Add crafting recipe for saddle and remove from loot tables
+- Gonna need to work on villager trade tables at some point
+- Hardcore Buoyance needs too much config, consider replacing
+- Remove Animania egg recipes, require eggs to be thrown for raw egg for cooking, unless you want a boiled egg
+- Add book with building ideas correlating to mod achievements
+- Test OresAllEasy before moving to Geolosys
 
-- Add better easy flint recipe, sluice box can do a more efficient one (possible 2 gravel and a small chance or ore)
+- Add better easy flint recipe, sluice box can do a more efficient one (possible 2 gravel and a small chance for ore)
 
 - Require resin or dung for tanning leather, no bark
 - Add resin recipe to BWM cauldron
@@ -27,13 +35,11 @@
 
 - Allow scouring leather with work tool ??
 
-- Add back vanilla armor recipes ?? (could possibly hide them and require they be acquired through other means, or tinkers armor be used)
-
 - Disable PC slats, except iron (?)
 - Change BWM slats to use sticks, no reason to gate them behind the saw, or swap the two
 - Change recipes to use BWM slats
 
-- Change black bear loot table to not drop pelt, alternatively, change pelt recipe to give leather with work tool
+- Pelts should give leather with work tool
 
 - Match all boat recipes to bwm, except betweenlands
 
@@ -41,10 +47,9 @@
 - Make gears require glue/slime any, this will put millstone after the cauldron, which will need a source of fire that lasts a while
 - Add more raft recipe variants (twine, rope)
 
-- Add mortar recipe for ground resin from bark, mortar recipe itself
 - Add mill recipes for ground resin from bark
-- Remove resin recipes using primalcore's mortar
 - Replace harvestcraft mortar recipes with advanced mortar, add advanced recipe versions to other machines
+- Replace pumpkin in cooking recipes with harvest pumpkin, add more immersive recipe for harvest pumpkin
 
 - Remove light from aetherium ore, aetherworks
 - Manasteel should require steel, or maybe soulforged steel or either
@@ -53,7 +58,6 @@
 - Make wooden rails require treated wood and change the texture
 - Gate the phoenix egg behind other magic mods
 - Make nests require more sticks or plant fiber
-- Fix wolves dropping two types of meat, favor wolf chop
 - Ocelot spawns seem very rare, may need to fix
 - GoG needs HEAVY loottable tweaking, spawnrate tuning as well as refining where and when the mobs spawn
 - Ice and Fire Dragons - needs HEAVY config and balancing, possibly remove entirely
@@ -93,10 +97,8 @@
 - Change wolf and ovis armor recipes to match vanilla
 - Zinc sariras recipe should return thaumcraft brass
 - Zinc ore shouldn't drop carbonate slack
-- Viescraft only showing 1 airship type ?
 - Loot needs to be tweaked HARD - abandoned mineshaft found with nuclearcraft parts
 - Tombstone mod allows teleporting to grave - nerf heavily, or consider removing
-- Animania animals cooked meat gives WAY too many buffs
 - Tombstone magic recipes need heavy nerfs
 - Nerf chest recipe to require saw, encourage basketcase baskets
 - Add recipes to horse power grinder and press
@@ -109,13 +111,16 @@
 - Weather2 mod could use some config
 - Rename "Weather Item" to something more technology-oriented
 - Strip down magneticraft to just the items and multiblocks we want
-- Add clay bucket to kiln
+- Add clay bucket to kiln and drying rack
+- Horsepower millstone should also require a gear
+- Add convenience recipes for furnace and crafting table later game, also consider changing the earliest available recipe to not require a saw but maybe a piece of leather or glue ?
 - Make sure charcoal is still available through kiln
 - Change recipe for glass slab to use better with addons diamond saw
 - Thermal Foundation needs heavy config
 - Thermal Dynamics recipes need looking at
-- Still seeing armored mobs, need to fix that
-- Go through ALL the configs and see if there's other things we can change
+- Add wolf chop to steppe wolf loottable
+- Make tinkers drying rack have some of the regular drying rack recipes, but require mouldings so saws will be required
+- Allow advanced saws to make siding for chests and boats without requiring the mechanical saw
 
 - Allow chisel to make marble variants for astral sorcery
 
@@ -131,11 +136,9 @@ CONSIDER ADDING:
 - Dynamic Trees - don't forget compat mods are separate
 - Bibliocraft - probably not needed, would need a lot of config to remove some blocks and items
 - BiomeTweakerCore - if we need more biome options
-- Buildcraft - really only if we need another pipe option, none of the other machines appeal to me
 - Caliper - when we need to optimize the pack
 - Clef - just a fun mod, low priority
 - Clumps - performance
-- Cooking for Blockheads - would be great if we could require power/water for it to work
 - Cyclic - a select few blocks and items are useful, but would need to be heavily configured
 - Dark Utilities - same as above
 - Dark Roleplay Medieval - probably don't need the deco blocks here
@@ -144,14 +147,10 @@ CONSIDER ADDING:
 - Doomlike Dungeons - if we need more adventure worldgen
 - BattleTowers - if we need more adventure worldgen
 - Drones - if we can gate it behind reaching a certain tech-level
-- Earthworks - low priority, would need some recipe changes
-- Environmental Tech + ET Lunar - possible tech mod to add, not sure about it just yet, will need testing
-- Extra Golems - we'd probably only want to keep 1 or 2, would need to test and configure
-- Twilight Forest - Just not sure about this one atm. I feel like it needs a quality bump and to maybe be a complete mod before we include this
+- Environmental Tech + ET Lunar - mekanism has a digital miner but these can be pretty interesting
 - Farming for Blockheads - if Harvestcraft's stores don't do what we need it to
 - Felling - interesting enchant option
-- Ferdinand's Flowers - very good looking, but low priority and will need a lot of recipe removal to get excess blocks out
-- Forestry - could be cool, but would need major tweaking and needs testing in general
+- Forestry - could be cool, but would need major tweaking and needs testing in general, textures would need updating
 - Garden Stuff - more deco options that would need recipe tweaking
 - Hunting Dimension - might just be an interesting one, would need to tweak recipes
 - Immersive Craft - don't need the rock or stick worldgen, but some extra early game blocks might be nice
@@ -159,7 +158,6 @@ CONSIDER ADDING:
 - Railcraft - not updated for 1.12 yet
 - Jurrasicraft - could be an interesting late game side-game
 - Aquaculture - if fishing could be better
-- More water mods in general - the ocean could be more interesting
 - Landlust Furniture - another deco mod option, probably not needed
 - Millenaire - probably not our style, and would take major balancing changes
 - Minecolonies - probably not our style, and would take major balancing changes
@@ -173,24 +171,22 @@ CONSIDER ADDING:
 - Rustic - would have to disable quite a few overlapping features, but has great deco options, and a cool alchemy side-game
 - Road Runner - if we need to change a few blocks movement speed modifiers
 - Set Effect - if we need to add some effects to armor sets
-- Ordinary Coins - is interesting, possibly make a press mold for the metal press ?
-- Clothesline - mod to watch, could be interesting deco addition atm
 - The Erebus - another dimension for potential exploration, but would need heavy config
 - Natural Pledge - Looks pretty cool, definitely a possible inclusion, extends Botania a bit
 - Water Control Extreme - May need to adjust water
 - Tumbleweed - just a little more ambience
 - Vampirism - might be a cool addition to the magic tree, but would need balancing and research
-- Wild Crops - probably not needed with harvestcraft gardens
 - Electroblob's Wizardry - another interesting spell mod, would need to be heavily balanced
 - XNet and Ynot - interesting endgame tech
 - Zombie Awareness - moar difficulty
 - Worley's Caves - better cave generation
 - Floocraft - adds a floo powder system with multiblock fireplaces, seems like a cool little magic tree addition
 - Integrated Dynamics - might be worth a look
-- Openblocks Elevator - actually a lot more balanced then I thought originally and looks like it provides a cool tech-y feel
 - JAOPCA - might provide more compat between our mods that add ore
 - Immersive Railroading - more interesting mid/late game tech geared towards travel
 - The One Probe - maybe we use a very basic waila until the one probe is available ?
 - /dank/null - seems interesting because we aren't using any of the utility item/block mods like cyclic, recipes would need adjusting
 - Block Drops (JEI Addon) - seems like a good dev tool
 - JustEnoughIDs - should fix any block id and item id issues we have if we're running into any, which we might be
+- Geolosys - this might be our best bet for unifying ore generation in a nice and immersive way
+- Xtones - cool tech decorative blocks
