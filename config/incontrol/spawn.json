@@ -2,5 +2,10 @@
   {
     "mob": ["nex:brute", "nex:spinout", "nex:wight"],
     "result": "deny"
+  },
+  {
+    "hostile": false,
+    "biome": "Wasteland",
+    "result": "deny"
   }
 ]

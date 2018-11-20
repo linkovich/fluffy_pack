@@ -1,4 +1,7 @@
 import crafttweaker.item.IItemStack;
+import loottweaker.vanilla.loot.LootTables;
+import loottweaker.vanilla.loot.LootTable;
+import loottweaker.vanilla.loot.LootPool;
 
 static removeAndHideItems as IItemStack[] = [
 	<primal:smelter:1>,
@@ -129,7 +132,10 @@ static removeAndHideItems as IItemStack[] = [
 	<primal:gate_ironwood>,
 	<primal:gate_yew>,
 	<primal:gate_lacquer>,
-	<primal:fish_trap:*>,
+	<primal:fish_trap:6>,
+	<primal:fish_trap:7>,
+	<primal:fish_trap:8>,
+	<primal:fish_trap:9>,
 	<primal:animal_fat>,
 	<primal:animal_fat_nether>,
 	<primal:chum>,
@@ -343,14 +349,42 @@ static removeAndHideItems as IItemStack[] = [
 	<primal:aconite_root>,
 	<primal:nether_root>,
 	<primal:nether_seed>,
-	<primal:searing_sprig>
+	<primal:searing_sprig>,
+	<primal:stone_basin>,
+	<primal:charcoal_fair>,
+	<primal:charcoal_good>,
+	<primal:charcoal_high>,
+	<primal:charcoal_pure>,
+	<primal:wax_residue>,
+	<primal:dry_grass_root>,
+	<primal:dry_grass_seed>,
+	<primal:daucus_murn_root>,
+	<primal:daucus_murn_root_cooked>,
+	<primal:ash_wolf>,
+	<primal:ash_bone>,
+	<primal:sword_crude_wootz>,
+	<primal:carbon_plate>,
+	<primal:nether_growth>,
+	<primal:nether_mycelium>,
+	<primal:searing_ember>,
+	<primal:tall_grass_seeds>,
+	<primal:soul_residue>,
+	<primal:bitumin_clump>,
+	<primal:ore_cluster_magnetite>,
+	<primal:magnetite_dust>,
+	<primal:iron_bloom>,
+	<primal:wootz_nugget>,
+	<primal:wootz_ingot>,
+	<primal:wootz_plate>,
+	<primal:pumpkin_piece>
 ];
 
 static removedRecipes as string[] = [
 	"primal:unlit_torch_mote",
 	"primal:unlit_torch_coal",
 	"primal:unlit_torch_nether",
-	"primal:wood_pin_4"
+	"primal:wood_pin_4",
+	"primal:plant_fiber_pulp"
 ];
 
 for item in removeAndHideItems {
@@ -363,3 +397,27 @@ for item in removedRecipes {
 
 mods.primal.Cauldron.removeAll();
 mods.primal.Gallagher.removeAll();
+
+// Smeltery
+static smelteryRecipesToRemove as string[] = [
+	"bone_ash",
+	"wolf_ash",
+	"yew_ash",
+	"ironwood_ash",
+	"magnetite_ore",
+	"satetsu_poor_glass",
+	"satetsu_fair_glass",
+	"satetsu_good_glass",
+	"satetsu_high_glass",
+	"satetsu_pure_glass",
+	"soul_residue"
+];
+
+for recipe in smelteryRecipesToRemove {
+	mods.primal.Smelter.removeRecipe(recipe);
+}
+
+// Loot pools
+var steppeWolfLootTable = LootTables.getTable("primal:entities/canis_campestris");
+steppeWolfLootTable.removePool("canis_campestris_meat");
+steppeWolfLootTable.removePool("canis_campestris_fat");

@@ -1,6 +1,9 @@
 import crafttweaker.item.IItemStack;
 
 static removedRecipes as string[] = [
+	"minecraft:lead",
+	"thermalfoundation:lead",
+	"thermalfoundation:lead_1"
 ];
 
 static removeMatchingRecipes as string[] = [

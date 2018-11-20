@@ -12,6 +12,13 @@ recipes.addShaped("linkovich_workbench", <minecraft:crafting_table>, [
   [<minecraft:planks>, <minecraft:planks>, <minecraft:planks>]
 ]);
 
+// Workbench simplified after BwM saw is acquired
+recipes.addShaped("linkovich_workbench_2", <minecraft:crafting_table>, [
+  [null, null, null],
+  [<betterwithmods:siding_wood>, <betterwithmods:siding_wood>, null],
+  [<betterwithmods:siding_wood>, <betterwithmods:siding_wood>, null]
+]);
+
 // Small Basket
 recipes.addShaped("linkovich_small_basket", <basketcase:container_basket_small>, [
   [null, null, null],
